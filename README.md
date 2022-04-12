@@ -1,9 +1,14 @@
 ![minecraft bedrock launcher logo](https://raw.githubusercontent.com/BedrockLauncher/BedrockLauncher.GitHub.io/main/src/assets/images/logos/logo.png)
 
 ---
-[Our Server](https://mcbedrock.prilldudez.net)
+<h3>Prill Kidz Minecraft Server - Bedrock Edition on prilldudez.net</h3>
 
-An unofficial **Minecraft for Windows 10** launcher that enables similar features from the **Minecraft Java Edition Launcher**.
+<strong>[Server: mcbedrock.prilldudez.net<br>Port: 19132](https://mcbedrock.prilldudez.net)</strong><br>
+*If the server is currently Not Online in Minecraft for Windows, clicking the link will open a blank web page which will NOT load, but the act of requesting the URL initiates the minecraft server startup process. Wait about 5 minutes and the server should be available in Minecraft for Windows (or any Bedrock edition-compatible console or device).*
+ 
+<hr>
+
+See below for an unofficial **Minecraft for Windows 10/Bedrock Launcher** that enables similar features from the **Minecraft Java Edition Launcher** forked from the Bedrocklauncher project on GitHub.
 
 [![Website](https://img.shields.io/github/v/tag/BedrockLauncher/BedrockLauncher.GitHub.io?color=blue&label=Visit%20Official%20Website&logo=github&style=for-the-badge)](https://bedrocklauncher.github.io/)
 [![Download](https://img.shields.io/github/v/release/BedrockLauncher/BedrockLauncher?color=brightgreen&label=Download%20Installer&logo=windows&style=for-the-badge)](https://github.com/BedrockLauncher/BedrockLauncher.Installer/releases/latest/download/BedrockLauncher.Installer.exe)
