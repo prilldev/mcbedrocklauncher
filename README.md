@@ -1,6 +1,7 @@
 ![minecraft bedrock launcher logo](https://raw.githubusercontent.com/BedrockLauncher/BedrockLauncher.GitHub.io/main/src/assets/images/logos/logo.png)
 
 ---
+[Our Server](https://mcbedrock.prilldudez.net)
 
 An unofficial **Minecraft for Windows 10** launcher that enables similar features from the **Minecraft Java Edition Launcher**.
 
